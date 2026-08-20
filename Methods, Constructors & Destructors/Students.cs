@@ -15,6 +15,12 @@ namespace OOP_exercises
 
             totalStudents++;
         }
+
+        public static void DisplayTotalStudents()
+        {
+            Console.WriteLine("Total students: " + totalStudents);
+        }
+
         public string GetName()
         {
             return this.name;
@@ -29,10 +35,10 @@ namespace OOP_exercises
         }
         public string GetClassification()
         {
-            if (this.score >= 5.0)
+            if (this.score >= 8.0)
                 return "Excellent";
             else if (this.score >= 6.5)
-                return "Goood";
+                return "Good";
             else if (this.score >= 5.0)
                 return "Average";
             else
