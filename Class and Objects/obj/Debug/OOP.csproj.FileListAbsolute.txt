@@ -1,7 +1,0 @@
-C:\Users\new user\Desktop\my programme\OOP\OOP\bin\Debug\OOP.exe.config
-C:\Users\new user\Desktop\my programme\OOP\OOP\bin\Debug\OOP.exe
-C:\Users\new user\Desktop\my programme\OOP\OOP\bin\Debug\OOP.pdb
-C:\Users\new user\Desktop\my programme\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
-C:\Users\new user\Desktop\my programme\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
-C:\Users\new user\Desktop\my programme\OOP\OOP\obj\Debug\OOP.exe
-C:\Users\new user\Desktop\my programme\OOP\OOP\obj\Debug\OOP.pdb
