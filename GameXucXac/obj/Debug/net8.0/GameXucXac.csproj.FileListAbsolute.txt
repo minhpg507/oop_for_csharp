@@ -1,0 +1,15 @@
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.AssemblyInfo.cs
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\bin\Debug\net8.0\GameXucXac.exe
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\bin\Debug\net8.0\GameXucXac.deps.json
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\bin\Debug\net8.0\GameXucXac.runtimeconfig.json
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\bin\Debug\net8.0\GameXucXac.dll
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\bin\Debug\net8.0\GameXucXac.pdb
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.dll
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\refint\GameXucXac.dll
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.pdb
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.genruntimeconfig.cache
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\ref\GameXucXac.dll
+C:\Users\new user\Desktop\my programme\GameXucXac\GameXucXac\obj\Debug\net8.0\GameXucXac.csproj.Up2Date
